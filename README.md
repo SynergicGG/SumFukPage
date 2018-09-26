@@ -1,2 +1,0 @@
-# SumFukPage
-Created with CodeSandbox
